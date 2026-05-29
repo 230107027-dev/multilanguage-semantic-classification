@@ -1,0 +1,21 @@
+[project]
+name = "kaspi-scraper"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "basedpyright>=1.29.1",
+    "crawlee[all]>=0.6.9",
+    "google-genai>=1.14.0",
+    "marimo>=0.13.2",
+    "playwright==1.50.0",
+    "polars>=1.29.0",
+    "python-dotenv>=1.1.0",
+    "ruff-lsp>=0.0.62",
+    "stealth-requests[parsers]>=1.2.1",
+    "untruncate-json>=1.1.0",
+]
+[tools.pyright]
+allowedUntypedLibraries = "stealth_requests"
+# allowedUntypedLibraries = "crawlee"
