@@ -146,7 +146,7 @@ Then open `notebooks/ml-final-inference.ipynb` and run all cells. Make sure the 
 
 ## Authors
 
-Sanzhar Altynbay — Computer Science, Kazakhstan
-Arailym Akhmet — Computer Science, Kazakhstan
-Dauren Baimurza — Computer Science, Kazakhstan
+- Sanzhar Altynbay — Computer Science, Kazakhstan
+- Arailym Akhmet — Computer Science, Kazakhstan
+- Dauren Baimurza — Computer Science, Kazakhstan
 Final project — Text Classification track
